@@ -245,3 +245,6 @@ This repository serves as the official landing page for Vim. The software is dis
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Vim today!**
+
+---
+**Last updated:** 2026-09-09 22:16:49 UTC
