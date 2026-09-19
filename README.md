@@ -247,4 +247,4 @@ This repository serves as the official landing page for Vim. The software is dis
 **Get the most recent version of Vim today!**
 
 ---
-**Last updated:** 2026-09-19 12:52:49 UTC
+**Last updated:** 2026-09-19 16:14:04 UTC
